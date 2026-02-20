@@ -1,0 +1,12 @@
+{
+  "name": "sorry-website",
+  "version": "1.0.0",
+  "description": "A website to apologize to my lover.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
